@@ -6,6 +6,6 @@
 但本项目只是为了学习Vue 3而写的一个组件库
 
 ## 源码
-如果你觉得对官网和UI组件源码有兴趣，那么可以访问我的 [GitHub](https://github.com/wwwpppfffzzz/zhizz-ui) 查看源码
+如果你觉得对官网和UI组件源码有兴趣，那么可以访问我的 [GitHub](https://github.com/yjmhm/apple-UI) 查看源码
 
 
